@@ -1,0 +1,26 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "Basic website template",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abysoltech/web.git"
+  },
+  "author": "tech@abydossolutions.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abysoltech/web/issues"
+  },
+  "homepage": "https://github.com/abysoltech/web#readme",
+  "dependencies": {
+    "bower": "^1.8.14",
+    "express": "^4.17.3",
+    "jade": "^0.29.0",
+    "request": "^2.88.2",
+    "socket.io": "^4.4.1"
+  }
+}
